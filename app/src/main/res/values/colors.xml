@@ -6,4 +6,7 @@
     <color name="blue">#1A237E</color>
     <color name="orange">#F08C35</color>
     <color name="light_green">#FFEB3B</color>
+    <color name="button_pressed">#FF4081</color>
+    <color name="button_focused">#ff8a00</color>
+    <color name="button_default">#F08C35</color>
 </resources>

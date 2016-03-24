@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
                 public void onClick(View view) {
                     Button b = (Button) view;
                     String message = String.format(getResources().getString(R.string.launchmsg), b.getText().toString());
-                    Toast.makeText(getApplicationContext(), message, Toast.LENGTH_LONG).show();
+                    Toast.makeText(getApplicationContext(), message, Toast.LENGTH_SHORT).show();
                 }
             });
         }
